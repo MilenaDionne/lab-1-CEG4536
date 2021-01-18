@@ -5,7 +5,7 @@
 using namespace std; 
 #define NUM_THREADS 16 
 std::mutex mu; 
-//test2
+//test4444
 /*
 Function: fibonacci_parallel
 Description: Recursive fibonacci serie in parallel function
@@ -30,7 +30,7 @@ int fibonacci_serial(int n) {
 
 /*
 Function: main
-Description: effectue série de fibonacci en série et en parallèle pour récursive et non-récursive
+Description: effectue sÃ©rie de fibonacci en sÃ©rie et en parallÃ¨le pour rÃ©cursive et non-rÃ©cursive
 */
 
 int main() {
